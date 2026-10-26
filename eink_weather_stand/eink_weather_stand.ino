@@ -42,10 +42,10 @@
 #include <Fonts/FreeSansBold24pt7b.h>
 
 // ======================= YOUR SETTINGS =======================
-const char* WIFI_SSID        = "99 Problems But Wi-Fi Aint One";
-const char* WIFI_PASS        = "udinudinudin";
+const char* WIFI_SSID        = "wifi";
+const char* WIFI_PASS        = "pw";
 // Paste the generated JWT (the long "eyJ..." string). Do not share or commit it.
-const char* WEATHERKIT_TOKEN = "eyJhbGciOiJFUzI1NiIsImtpZCI6IlpHMkM5UjVXQTkiLCJpZCI6IlNXUjgzRzdERE0uY29tLmtvZGludXMud2VhdGhlcmtpdC1jbGllbnQifQ.eyJpc3MiOiJTV1I4M0c3RERNIiwiaWF0IjoxNzkxOTg2MDk4LCJleHAiOjE4MjM1MjIwOTgsInN1YiI6ImNvbS5rb2RpbnVzLndlYXRoZXJraXQtY2xpZW50In0.MEYCIQCNC-9qY-N7tOGYmhFBFcyukc1GCllDmZHIRg1KJydWUgIhAK2-jM7Of6pvaVpOcw4onOZ4Smvjw3upGJ5YA7jb-mb9";
+const char* WEATHERKIT_TOKEN = "wtkn";
 
 // ======================= CONFIG =======================
 #define EPD_CS    5
